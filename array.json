@@ -1,0 +1,28 @@
+[
+      {
+        "task": "Comprare la spesa",
+        "dueDate": "2024-07-02",
+        "status": "incompleto"
+      },
+      {
+        "task": "Finire il report di lavoro",
+        "dueDate": "2024-07-03",
+        "status": "incompleto"
+      },
+      {
+        "task": "Andare in palestra",
+        "dueDate": "2024-07-01",
+        "status": "completo"
+      },
+      {
+        "task": "Chiamare il dottore per appuntamento",
+        "dueDate": "2024-07-05",
+        "status": "incompleto"
+      },
+      {
+        "task": "Pulire la casa",
+        "dueDate": "2024-07-04",
+        "status": "incompleto"
+      }
+  ]
+  
